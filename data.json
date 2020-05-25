@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://www.google.com",
+      "name": "Thalles",
+      "birth": 963532800000,
+      "gender": "M",
+      "services": "Crossfit, musculação, natação",
+      "created_at": 1590420426780
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://www.facebook.com",
+      "name": "Thalles",
+      "birth": 264556800000,
+      "gender": "M",
+      "services": "Crossfit, musculação",
+      "created_at": 1590420597356
+    }
+  ]
+}
