@@ -19,6 +19,10 @@ routes.get('/instructors/create', function(req, res){
 })
 routes.get('/instructors/:id', instructors.show)
 
+routes.get('/instructors/:id/edit', instructors.edit)
+
+routes.put('/instructors', instructors.put)
+
 /* Rotas para receber e validar dados do formulario */
 routes.post('/instructors', instructors.post)
 
