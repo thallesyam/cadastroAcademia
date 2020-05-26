@@ -8,6 +8,24 @@
       "gender": "M",
       "services": "Crossfit, musculação, natação",
       "created_at": 1590444966117
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://www.facebook.com",
+      "name": "Maria",
+      "birth": 264556800000,
+      "gender": "F",
+      "services": "Crossfit, musculação, natação",
+      "created_at": 1590454451475
+    },
+    {
+      "id": 3,
+      "avatar_url": "http://www.google.com",
+      "name": "Edson",
+      "birth": 960940800000,
+      "gender": "M",
+      "services": "Crossfit, musculação",
+      "created_at": 1590454479287
     }
   ]
 }

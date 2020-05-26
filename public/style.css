@@ -159,3 +159,32 @@ a.button{
 a.button:hover{
     background-color: #6E49A6;
 }
+#form-delete input[type=submit]{
+    margin-top: 8px;
+    background-color: lightcoral;
+}
+#form-delete input[type=submit]:hover{
+    background-color: rgb(247, 107, 107);
+
+}
+
+/* Index instructors */
+
+.table-container{
+    display: block;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.table-container table{
+    border-spacing: 0;
+}
+.table-container thead tr th {
+    text-align: left;
+}
+td, th {
+    padding:16px;
+    border-bottom: 1px solid #d9d9d9;
+}
+tbody tr:last-child td{
+    border-bottom: none;
+}
