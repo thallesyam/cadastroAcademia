@@ -1,4 +1,4 @@
-# CadastroAcademia#Sistema de academia
+# Sistema de academia
 
 CRUD de academia feito em:
 
